@@ -43,6 +43,7 @@ public class Sound {
 
 
 
+
     public static boolean notificationsAllowed() {
         return notificationsAllowed;
     }
